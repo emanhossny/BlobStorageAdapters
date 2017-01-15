@@ -11,10 +11,10 @@ generic blob storage applications. These applications can be deployed remotely o
 with no change in the source code. The user needs only to configure the class path of the generic
 application to use a specific adapter.
 
-An automatic Adapter Generation (AAG) module has been designed to automatically generate specific 
+A Semi-Automatic Adapter Validation and Generation (SAVG) module has been designed to semi-automatically validate and generate specific 
 adapters for a generic API.
 
-So, The AAG module has been used to generated adapters for the blob storage generic API for both 
+So, The SAVG module has been used to generated adapters for the blob storage generic API for both 
 GAE and Windows Azure.
 
 This application provides the GAE and Azure adapters for the blob stroage generic API.
